@@ -1,0 +1,10 @@
+E:\热成像程序\translationDemo\ClassLibrary1\bin\Debug\Ctranslation.dll
+E:\热成像程序\translationDemo\ClassLibrary1\bin\Debug\Ctranslation.pdb
+E:\热成像程序\translationDemo\ClassLibrary1\obj\Debug\Ctranslation.dll
+E:\热成像程序\translationDemo\ClassLibrary1\obj\Debug\Ctranslation.pdb
+E:\热成像程序\translationDemo\ClassLibrary1\obj\Debug\CImageTransform.csprojResolveAssemblyReference.cache
+F:\Tools\GitTools\translationDemo\translationDemo\bin\Debug\Ctranslation.dll
+F:\Tools\GitTools\translationDemo\translationDemo\bin\Debug\Ctranslation.pdb
+F:\Tools\GitTools\translationDemo\CImageTransform\obj\Debug\CImageTransform.csprojResolveAssemblyReference.cache
+F:\Tools\GitTools\translationDemo\CImageTransform\obj\Debug\Ctranslation.dll
+F:\Tools\GitTools\translationDemo\CImageTransform\obj\Debug\Ctranslation.pdb

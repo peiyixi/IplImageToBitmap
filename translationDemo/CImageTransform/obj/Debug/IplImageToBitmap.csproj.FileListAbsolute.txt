@@ -1,0 +1,5 @@
+E:\热成像程序\translationDemo\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\热成像程序\translationDemo\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\热成像程序\translationDemo\ClassLibrary1\obj\Debug\IplImageToBitmap.csprojResolveAssemblyReference.cache
+E:\热成像程序\translationDemo\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\热成像程序\translationDemo\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
